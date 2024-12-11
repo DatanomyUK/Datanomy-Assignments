@@ -86,3 +86,7 @@ Requirements for the Solution Design Document
     - Evaluate potential improvements in infrastructure, such as upgrading to a dedicated SQL database or Azure Synapse Analytics, to handle larger datasets efficiently.
 - **Establish Review and Approval Processes**:
     - Outline how the solution design will be reviewed and approved, and identify stakeholders involved in the process.
+
+## Submission of the assignment ##
+
+Please submit the Power BI report and the solution design document using a document sharing platform such as OneDrive or Google Drive
