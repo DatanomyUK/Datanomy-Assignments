@@ -1,5 +1,5 @@
 ### Power BI Solution Architect Assignment
-##Introduction
+## Introduction
 This assignment is designed for candidates applying for the role of Power BI Solution Architect. The task involves two main sections: creating a Power BI report and developing a solution design document for the Power BI report. This document provides the necessary requirements and instructions to complete both sections effectively.
 The report is requested by SwiftCabs Ltd, aiming to understand the current New York taxi market. The company intends to use the insights from this report to evaluate the feasibility of launching a new taxi service in New York.
 ## Section 1: Power BI Report Creation
