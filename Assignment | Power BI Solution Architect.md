@@ -1,9 +1,13 @@
 ### Power BI Solution Architect Assignment
 ## Introduction
 This assignment is designed for candidates applying for the role of Power BI Solution Architect. The task involves two main sections: creating a Power BI report and developing a solution design document for the Power BI report. This document provides the necessary requirements and instructions to complete both sections effectively.
+
 The report is requested by SwiftCabs Ltd, aiming to understand the current New York taxi market. The company intends to use the insights from this report to evaluate the feasibility of launching a new taxi service in New York.
+
 ## Section 1: Power BI Report Creation
+
 Objective
+
 Analyze New York Yellow Taxi Trip Data for December 2023 and January 2024 using advanced Power BI techniques such as DAX calculations, calculation groups, and field parameters. This report serves as a Proof of Concept (PoC) for two months of data.
 Data Import and Preparation
 •	Import Data: Import the Yellow Taxi Trip Records (PARQUET) datasets for December 2023 and January 2024 from the NYC Taxi & Limousine Commission (TLC) website into Power BI Desktop.
