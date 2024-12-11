@@ -7,7 +7,6 @@ The report is requested by SwiftCabs Ltd, aiming to understand the current New Y
 ## Section 1: Power BI Report Creation
 
 Objective
-
 Analyze New York Yellow Taxi Trip Data for December 2023 and January 2024 using advanced Power BI techniques such as DAX calculations, calculation groups, and field parameters. This report serves as a Proof of Concept (PoC) for two months of data.
 Data Import and Preparation
 •	Import Data: Import the Yellow Taxi Trip Records (PARQUET) datasets for December 2023 and January 2024 from the NYC Taxi & Limousine Commission (TLC) website into Power BI Desktop.
