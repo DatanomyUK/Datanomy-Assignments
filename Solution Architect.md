@@ -1,4 +1,4 @@
-# Technical Assessment: Power Platform/Cloud Solution Architect (Finance)
+# Technical Assessment: Power Platform/Cloud Solution Architect
 ## Objective:
 This assessment evaluates your ability to design a solution using Power Platform and cloud technologies to address a finance-related business problem.
 ## Scenario:
