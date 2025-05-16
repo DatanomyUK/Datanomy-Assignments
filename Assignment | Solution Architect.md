@@ -3,7 +3,8 @@
 This assessment evaluates your ability to design a solution using Power Platform and cloud technologies to address a finance-related business problem. Please make necessary assumption where required to complete this assessment. A key criteria for evaluation is your ability to go beyond user requirements and deliver a solution that is scalable and can handle exceptions that may not be covered by the requirments by business users. 
 ## Scenario:
 A financial services company, "Global Finance Corp" (GFC), needs to modernize its expense reporting and approval process. Currently, employees submit expense reports via email and paper, leading to:
-- Manual data entry and processing.Lack of visibility into the approval status.
+- Manual data entry and processing.
+- Lack of visibility into the approval status.
 - Delayed reimbursements.
 - Difficulty in generating accurate reports for analysis.
 - GFC wants to implement a new system to streamline this process, improve efficiency, and enhance reporting capabilities.
